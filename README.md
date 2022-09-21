@@ -15,11 +15,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/iamabhaychauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamabhaychauhan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abhay-singh-chauhan-760b22226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhay-singh-chauhan-760b22226" height="30" width="40" /></a>
-<a href="https://www.kooapp.com/profile/abhaysinghchauhan" target="blank"><img align="center" src="https://miro.medium.com/max/1400/1*KNL--ynCQdJ0Bv6za71ZOw.png" height="80" width="80" alt="abhay-koo" /></a>
-<a href="https://fb.com/itsabhaychauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itsabhaychauhan" height="30" width="40" /></a>
-<a href="https://instagram.com/the_abhaychauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_abhaychauhan" height="30" width="40" /></a>
+<a href="https://twitter.com/iamabhaychauhan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamabhaychauhan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abhay-singh-chauhan-760b22226" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhay-singh-chauhan-760b22226" height="30" width="40" /></a>
+<a href="https://www.kooapp.com/profile/abhaysinghchauhan" target="_blank"><img align="center" src="https://miro.medium.com/max/1400/1*KNL--ynCQdJ0Bv6za71ZOw.png" height="80" width="80" alt="abhay-koo" /></a>
+<a href="https://fb.com/itsabhaychauhan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itsabhaychauhan" height="30" width="40" /></a>
+<a href="https://instagram.com/the_abhaychauhan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_abhaychauhan" height="30" width="40" /></a>
 </p>
 
 
