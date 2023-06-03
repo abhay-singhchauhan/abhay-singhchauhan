@@ -5,11 +5,11 @@
 <p align="left"> <a href="https://twitter.com/iamabhaychauhan" target="blank"><img src="https://img.shields.io/twitter/follow/iamabhaychauhan?logo=twitter&style=for-the-badge" alt="iamabhaychauhan" /></a> </p>
 
 
-- 🌱 I’m currently learning **Advanced JavaScript**
+- 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 All of my projects are available at [https://abhay.fun](https://abhay.fun)
 
-- 📫 How to reach me **itsyourabhay@gmail.com**
+- 📫 How to reach me **abhaysinghchauhan@outlook.in**
 
 - ⚡ Fun fact **I'm an extrovert in the inbox but an introvert while meeting in person.🤭**
 
