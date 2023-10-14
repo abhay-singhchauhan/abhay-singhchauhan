@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 All of my projects are available at [https://abhay.fun](https://abhay.fun)
-
-- 📫 How to reach me **abhaysinghchauhan@outlook.in**
+- 📫 How to reach me **itsyourabhay@gmail.com**
 
 - ⚡ Fun fact **I'm an extrovert in the inbox but an introvert while meeting in person.🤭**
 
