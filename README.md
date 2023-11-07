@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 📫 How to reach me **itsyourabhay@gmail.com**
+- 📫 How to reach me **devabhaychauhan@gmail.com**
 
 - ⚡ Fun fact **I'm an extrovert in the inbox but an introvert while meeting in person.🤭**
 
