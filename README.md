@@ -5,9 +5,8 @@
 <p align="left"> <a href="https://twitter.com/iamabhaychauhan" target="blank"><img src="https://img.shields.io/twitter/follow/iamabhaychauhan?logo=twitter&style=for-the-badge" alt="iamabhaychauhan" /></a> </p>
 
 
-- 🌱 I’m currently learning **React.js**
 
-- 📫 How to reach me **devabhaychauhan@gmail.com**
+- 📫 How to reach me **contact@abhaysinghchauhan.com**
 
 - ⚡ Fun fact **I'm an extrovert in the inbox but an introvert while meeting in person.🤭**
 
